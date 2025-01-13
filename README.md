@@ -19,20 +19,20 @@ OVIWrite is a [NeoVim](https://neovim.io/) powered Integrated Writing Environmen
 ### Unix Systems (Linux and MacOS)
 
 ```bash
-git clone https://github.com/MiragianCycle/OVIWrite.git "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
+git clone https://github.com/nooneknowspeter/nvim-for-writing "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
 ```
 
 ### Windows
 
 **Command Prompt**
 ```cmd
-git clone https://github.com/MiragianCycle/OVIWrite.git %userprofile%\AppData\Local\nvim\
+git clone https://github.com/nooneknowspeter/nvim-for-writing %userprofile%\AppData\Local\nvim\
 
 ```
 
 **Powershell**
 ```pwsh
-git clone https://github.com/MiragianCycle/OVIWrite.git $env:USERPROFILE\AppData\Local\nvim\
+git clone https://github.com/nooneknowspeter/nvim-for-writing $env:USERPROFILE\AppData\Local\nvim\
 ```
 
 ## 🔌 PLUGINS 
